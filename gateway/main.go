@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	common "github.com/brunodev09/industrial-oms-go/commons"
+	common "github.com/brunodev09/industrial-oms-go/common"
 	_ "github.com/joho/godotenv/autoload"
 )
 
